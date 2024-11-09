@@ -16,10 +16,10 @@
 4. Prisma
 5. Regex Snippets
 6. JavaScript (ES6) Code Snippets
-7. vscode-styled-components
-**8. Console Ninja**
-**9. Path Intellisense**
-**10. JavaScript Booster**
+7. vscode-styled-components <br>
+**8. Console Ninja** <br>
+**9. Path Intellisense** <br>
+**10. JavaScript Booster** <br>
 **11. Abracadabra, refactor this!**
 
 <br>
@@ -46,7 +46,7 @@
 5. Rocketseat ReactJS
 6. Rocketseat React Native
 7. React Dev Snippets
-8. ReacTree
+8. ReacTree <br>
 **9. glean**
 
 <br>
@@ -68,12 +68,12 @@
 4. Comment Anchors
 5. Error Lens
 6. Theme by language
-7. Postman
-**8. Auto Import**
-**9. Auto Import - ES6, TS, JSX, TSX**
-**10. Import Cost**
-**11. Dependency Analytics**
-**12. SonarLint**
+7. Postman <br>
+**8. Auto Import** <br>
+**9. Auto Import - ES6, TS, JSX, TSX** <br>
+**10. Import Cost** <br>
+**11. Dependency Analytics** <br>
+**12. SonarLint** <br>
 **13. Code Time**
 
 
