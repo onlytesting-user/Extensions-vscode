@@ -1,5 +1,5 @@
-1° - [JavaScript](1-javascript)
-2° - [Python](2-python)
+1° - [JavaScript](1-javascript) <br>
+2° - [Python](2-python) <br>
 3° - [PHP](3-php)
 
 
