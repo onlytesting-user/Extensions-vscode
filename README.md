@@ -1,12 +1,12 @@
-1° - [JavaScript](1°-javascript) <br>
-2° - [Python](2°-python) <br>
-3° - [PHP](3°-php)
+1° - [JavaScript](1-javascript) <br>
+2° - [Python](2-python) <br>
+3° - [PHP](3-php)
 
 
-<center><h1>Extensões - VS Code</h1></center>
+# Extensões - VS Code</h3>
 
 
-# 1° JavaScript
+## 1° JavaScript
 
 • **JavaScript:**
 
@@ -105,9 +105,9 @@
 
 <br>
 
-# 2° Python
+## 2° Python
 
-• Python:
+• **Python:**
 
 1. Python (Pylance & Python Debugger)
 2. autopep8
@@ -120,22 +120,22 @@
 
 <br>
 
-• Jupyter:
+• **Jupyter:**
 
 1. Jupyter (Jupyter Keymap ; Jupyter Notebook Renderers ; Jupyter Slide Show ; Jupyter Cell Tags)
 
 <br>
 
-• Data Analytics:
+• **Data Analytics:**
 
 1. Rainbow CSV
 2. Excel Viewer
 
 <br>
 
-# 3° PHP
+## 3° PHP
 
-• PHP:
+• **PHP:**
 
 1. PHP Debug
 2. PHP Intelephense
