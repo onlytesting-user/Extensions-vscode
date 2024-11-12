@@ -1,6 +1,7 @@
 1° - [JavaScript](#1-javascript) <br>
 2° - [Python](#2-python) <br>
-3° - [PHP](#3-php)
+3° - [PHP](#3-php) <br>
+4° - [Mobile](#4-mobile)
 
 
 # Extensões - VS Code</h3>
@@ -16,9 +17,8 @@
 4. Prisma
 5. Regex Snippets
 6. JavaScript (ES6) Code Snippets
-7. vscode-styled-components <br>
-**9. Path Intellisense** <br>
-**10. JavaScript Booster** <br>
+7. vscode-styled-components
+8. JavaScript Booster
 **11. Abracadabra, refactor this!**
 
 <br>
@@ -43,10 +43,9 @@
 3. VSCode React Refactor
 4. Simple React Snippets
 5. Rocketseat ReactJS
-6. Rocketseat React Native
 7. React Dev Snippets
-8. ReacTree <br>
-**9. glean**
+8. ReacTree
+9. glean
 
 <br>
 
@@ -67,9 +66,9 @@
 4. Comment Anchors
 5. Error Lens
 6. Theme by language
-7. Postman <br>
-8. Import Cost <br>
-9. SonarLint <br>
+7. Postman
+8. Import Cost
+9. SonarLint
 
 • **DevOps:**
 
@@ -137,3 +136,11 @@
 4. PHP Awesome Snippets
 5. Laravel Artisan
 6. Laravel Blade Snippets
+
+<br>
+
+## 4° Mobile
+
+• **Mobile:**
+
+1. Rocketseat React Native
