@@ -19,7 +19,7 @@
 6. JavaScript (ES6) Code Snippets
 7. vscode-styled-components
 8. JavaScript Booster
-**11. Abracadabra, refactor this!**
+9. Abracadabra, refactor this!
 
 <br>
 
