@@ -70,6 +70,8 @@
 8. Import Cost
 9. SonarLint
 
+<br>
+
 • **DevOps:**
 
 1. Docker
@@ -78,11 +80,13 @@
 4. WSL
 5. Kubernetes
 
+<br>
 
 • **Databases:**
 
 1. Database Client (Database Client JDBC)
 
+<br>
 
 • **Git:**
 
@@ -91,6 +95,7 @@
 3. Git History
 4. GitHub Actions
 
+<br>
 
 • **UML:**
 
