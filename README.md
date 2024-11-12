@@ -17,7 +17,6 @@
 5. Regex Snippets
 6. JavaScript (ES6) Code Snippets
 7. vscode-styled-components <br>
-**8. Console Ninja** <br>
 **9. Path Intellisense** <br>
 **10. JavaScript Booster** <br>
 **11. Abracadabra, refactor this!**
@@ -69,13 +68,8 @@
 5. Error Lens
 6. Theme by language
 7. Postman <br>
-**8. Auto Import** <br>
-**9. Auto Import - ES6, TS, JSX, TSX** <br>
-**10. Import Cost** <br>
-**11. Dependency Analytics** <br>
-**12. SonarLint** <br>
-**13. Code Time**
-
+8. Import Cost <br>
+9. SonarLint <br>
 
 • **DevOps:**
 
